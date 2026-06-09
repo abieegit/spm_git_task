@@ -1,1 +1,2 @@
 "Hi, I am a software engineering student specializing in full-stack development and automation." 
+"Currently learning software project management and version control fundamentals." 
